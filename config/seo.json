@@ -1,12 +1,12 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
+  "title": "Hangar 88 Beverage Co. | Coffee To Uplift You",
+  "titleTemplate": "%s - Coffee To Uplift You",
   "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
   "openGraph": {
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce"
+    "url": "https://hangar88.co/",
+    "site_name": "Hangar 88 Beverage Co."
   },
   "twitter": {
     "handle": "@nextjs",
